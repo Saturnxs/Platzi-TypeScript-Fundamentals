@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/Saturnxs/typescript-fundamentals#readme",
   "devDependencies": {
+    "@types/lodash": "^4.14.188",
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "lodash": "^4.17.21"
   }
 }
